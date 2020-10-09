@@ -1,0 +1,13 @@
+l 
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Iteration, Random</title>
+  </head>
+  <body>
+    <h1>Open the console to see the magic!</h1>
+    <script type="text/javascript">
+​
+    </script>
+  </body>
